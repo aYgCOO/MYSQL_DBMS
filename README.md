@@ -1,2 +1,2 @@
-# MYSQL_DBMS
+# SQL
 
